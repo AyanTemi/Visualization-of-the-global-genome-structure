@@ -2,7 +2,7 @@
 ## HackBio Project
 This github repo containsall the files used for and those generated from the project:
 
-1. Project Report pdf file: This contains all the pro
+1. Project Report pdf file
 2. Project_script.sh
 3. Technical Specification Report.pdf
 4. Plots(Images)
