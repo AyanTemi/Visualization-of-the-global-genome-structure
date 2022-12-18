@@ -1,6 +1,6 @@
 # Visualization-of-the-global-genome-structure
 ## HackBio Project
-This github repo containsall the files used for and those generated from the project:
+This github repo contains all the files used for and those generated from the project:
 
 1. Project Report pdf file
 2. Project_script.sh
